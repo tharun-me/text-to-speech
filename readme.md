@@ -65,5 +65,3 @@ Feel free to open issues or create pull requests.
 ---
 
 Let me know if you'd like any other customizations! Feel free to play with the code. 🎉
-
-# text-to-speech
