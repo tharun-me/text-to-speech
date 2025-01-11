@@ -43,8 +43,7 @@ It's simple, fast, and effective! 🚀
 🌐 Want to build your own Text-to-Speech app?  
 Check out my 📖 blog for a step-by-step guide:  
 **Step-by-Step Guide to Building a Text-to-Speech Converter using AWS Polly**  
-Blog Link: [[https://medium.com/@devadocs](https://medium.com/@devadocs/how-to-create-a-text-to-speech-web-app-using-aws-polly-8f16de5832e3)](https://medium.com/@devadocs)  
-
+Blog Link: [[[https://medium.com/@devadocs](https://medium.com/@devadocs/how-to-create-a-text-to-speech-web-app-using-aws-polly-8f16de5832e3)]]
 This guide includes:  
 - 🚀 Detailed instructions.  
 - 💡 Insights into using Amazon Polly.  
